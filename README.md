@@ -1,7 +1,7 @@
 # go-chatgpt
 
 ### Project Description
-#This is a GoLang-based project that utilizes the OpenAI API to process queries and obtain intelligent responses. The project aims to leverage the power of OpenAI's natural language processing capabilities to create a robust and user-friendly query processing system.
+# This is a GoLang-based project that utilizes the OpenAI API to process queries and obtain intelligent responses. The project aims to leverage the power of OpenAI's natural language processing capabilities to create a robust and user-friendly query processing system.
 
 ### Installation
 - To set up the project on your local machine, follow these steps:
