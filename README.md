@@ -3,7 +3,7 @@
 ### Project Description
 #This is a GoLang-based project that utilizes the OpenAI API to process queries and obtain intelligent responses. The project aims to leverage the power of OpenAI's natural language processing capabilities to create a robust and user-friendly query processing system.
 
-###Installation
+### Installation
 - To set up the project on your local machine, follow these steps:
 - Clone the repository: git clone https://github.com/your-username/your-repo.git
 - Navigate to the project directory: cd your-repo
@@ -11,7 +11,7 @@
 - Obtain an API key from OpenAI and place it in the appropriate configuration file (if applicable).
 - Build the application: go build
 
-  ###Configuration
+### Configuration
 In the project's configuration file, you can adjust the following settings:
 
 - API_KEY: Your OpenAI API key (keep this secure and avoid exposing it publicly).
